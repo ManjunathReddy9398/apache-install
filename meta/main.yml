@@ -1,6 +1,7 @@
 #SPDX-License-Identifier: MIT-0
 galaxy_info:
-  role_name: apache-install
+  role_name: apache_install
+  namespace: ManjunathReddy9398
   author: ManjunathReddy9398
   description: apache installation description
 #  company: your company
